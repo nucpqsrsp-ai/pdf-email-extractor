@@ -1,0 +1,4 @@
+pypdf==4.*
+python-docx==1.1.*
+ipywidgets==8.*
+voila==0.5.*
